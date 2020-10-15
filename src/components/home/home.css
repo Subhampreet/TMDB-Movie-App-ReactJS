@@ -1,0 +1,37 @@
+.genre-list li{
+    margin-top: 10px;
+}
+
+
+.home{
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 0.3rem !important;
+    text-transform: uppercase;
+}
+
+.genreList {
+    font-family: 'Roboto', sans-serif !important;
+    letter-spacing: 0.1rem !important;
+}
+
+.movieList{
+    font-family: 'Roboto', sans-serif !important;
+    letter-spacing: 0.1rem !important;
+}
+
+.movieList .movieTitle{
+    font-size: 15px;
+    letter-spacing: 0.2rem !important;
+}
+
+.trending{
+    margin-top: 30px;
+}
+
+
+.footer-text{
+    letter-spacing: 0.05rem;
+}
+
+
+
